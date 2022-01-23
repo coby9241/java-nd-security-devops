@@ -1,0 +1,5 @@
+../.idea
+auth-course.iml
+target/*
+.DS_Store
+logs/*
